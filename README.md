@@ -4,7 +4,8 @@
 ## Dashboard Link: https://public.tableau.com/views/Souvik_Karmakar_EcoomerceExecutiveDashboard_TableauFinal/EcommerceExecutiveDashboard?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link
 
 
-## Objective: To leverage data analytics for optimizing e-commerce strategies, improving customer engagement, and driving sales growth.
+## Objective: 
+To leverage data analytics for optimizing e-commerce strategies, improving customer engagement, and driving sales growth.
 
 ## Datasets Used:
 
