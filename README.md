@@ -1,4 +1,8 @@
 # Project Highlight: Enhancing E-Commerce Strategies through Data Analytics
+![image](https://github.com/Souvik-karmakar/Ecomm-Optimization-Dashboard/assets/78291973/80d74270-87ee-4ac3-9fe9-54d44fe6d6b8)
+
+## Dashboard Link: https://public.tableau.com/views/Souvik_Karmakar_EcoomerceExecutiveDashboard_TableauFinal/EcommerceExecutiveDashboard?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link
+
 
 ## Objective: To leverage data analytics for optimizing e-commerce strategies, improving customer engagement, and driving sales growth.
 
